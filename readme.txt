@@ -7,6 +7,7 @@ delete
 github
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 creating a new branch is quick and simple.
 =======
 creating a new branch is quick and simple
@@ -16,3 +17,6 @@ new change
 change on github
 >>>>>>> fd47deebb56c00f19fdba0417386e1d48c6aff17
 À¬»øgit
+=======
+change on github
+>>>>>>> fd47deebb56c00f19fdba0417386e1d48c6aff17
