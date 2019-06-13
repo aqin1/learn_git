@@ -5,22 +5,5 @@ test
 add
 delete
 github
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-creating a new branch is quick and simple.
-=======
-creating a new branch is quick and simple
->>>>>>> feature1
-new change
-=======
-change on github
->>>>>>> fd47deebb56c00f19fdba0417386e1d48c6aff17
-垃圾git
-<<<<<<< HEAD
-geng laji de git
-=======
-=======
-change on github
->>>>>>> fd47deebb56c00f19fdba0417386e1d48c6aff17
->>>>>>> dev
+##记得先add 和 commit 后再merge 否则会提示错误，要先合并分区才能push
+add on dev
