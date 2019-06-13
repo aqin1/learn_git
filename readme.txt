@@ -5,4 +5,4 @@ test
 add
 delete
 github
-creating a new branch is quick
+creating a new branch is quick & simple.
