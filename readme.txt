@@ -7,3 +7,4 @@ delete
 github
 ##记得先add 和 commit 后再merge 否则会提示错误，要先合并分区才能push
 add on dev
+change to test git config --global alias.co commit
