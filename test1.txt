@@ -1,2 +1,6 @@
 The other Git test file
+<<<<<<< HEAD
 add on linux
+=======
+add in windows
+>>>>>>> 29d65ea921c4649c7cd8d872210563d8a6502099
