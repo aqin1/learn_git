@@ -183,20 +183,62 @@ $git config --global alias.st status
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+##ÃüÁî×Ü½á
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
+$ git init
+$ git add <FileName>
+$ git commit -m "message"
+$ git status
+$ git diff
+$ git log
+$ git log --pretty=oneline
+$ git reser --hard HEAD^ 
+$ git reset --hard eaadf4e
+$ git reflog
+$ git diff HEAD -- FileName
+$ git checkout -- FileName
+$ git reset HEAD <FileName>
+$ git rm FileName
+$ git checkout -- FileName
+$ ssh-keygen -t rsa -C "youremail@example.com"
+$ git remote add origin git@github.com:michaelliao/learngit.gi
+$ git push -u origin master
+$ git clone git@github.com:michaelliao/gitskills.git
+$ git checkout -b dev
+$ git branch dev
+$ git checkout master
+$ git merge dev
+$ git branch -d dev
+$ git branch -D dev
+$ git log --graph
+$ git log --graph --pretty=oneline --abbrev-commit
+$ git merge --no-ff -m "message" dev
+$ git stash list
+$ git stash
+$ git stash apply stash@{0}
+$ git stash drop
+$ git stash pop
+$ git remote
+$ git remote -v
+$ git checkout -b dev origin/dev
+$ git pull
+$ git branch --set-upstream-to=origin/dev dev
+$ git rebase
+$ git tag v1.0
+$ git tag v1.0 f52c633
+$ git tag
+$ git show v1.0
+$ git tag -a v1.0 -m "message" f52c633
+$ git tag -d v1.0
+$ git push origin v1.0
+$ git push origin --tags
+$ git tag -d v1.0
+$ git push origin :refs/tags/v1.0
+$ git remote rm origin
+$ git add -f FileName
+$ git check-ignore -v FileName
+$git config --global alias.st status
 
 
 
