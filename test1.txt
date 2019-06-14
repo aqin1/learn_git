@@ -1,3 +1,4 @@
 The other Git test file
+add on linux
 add in windows
 change on windows
