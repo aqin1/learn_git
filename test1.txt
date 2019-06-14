@@ -1,4 +1,7 @@
 The other Git test file
 add on linux
+<<<<<<< HEAD
 add in windows
 change on windows
+=======
+>>>>>>> refs/remotes/origin/master
